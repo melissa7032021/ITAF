@@ -1,0 +1,5 @@
+.slider{
+	
+	height: 100vh; /*que tome el 100 del dispositivo que este trabajando*/
+	background-position: center;/**/
+	background-size: cover;}
